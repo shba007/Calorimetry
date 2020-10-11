@@ -1,3 +1,3 @@
 # Calorimetry
 
-This is a Calorimetry Problem Related C Program
+This is a Calorimetry Calculator written in C
